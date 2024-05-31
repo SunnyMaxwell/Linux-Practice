@@ -31,6 +31,7 @@
     5.1) Create a directory notes under Linux using "mkdir"
     5.2) Create a group called "mynotes" using "groupadd"
     5.3) Add jane and tom to that group using "gpasswd -M"
+
     5.4) Change group ownership to "mynotes" for Folder notes using "chgrp"
     ![ALT text](./assets/mynotes_grp.png)
     5.5) Change group permission to all
@@ -44,6 +45,7 @@
 6) Research - Folder
 
     6.1) Create a directory research under Linux Folder using "mkdir"
+    
     6.2) Change group ownership and directory ownership to "jane" for folder "research" using "chown"
     ![ALT text](./assets/research_permission_jane.png)
     6.3) Remove Permissions for other users using "chmod"
