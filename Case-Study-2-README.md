@@ -1,5 +1,9 @@
 # Linux-Practice
 
+## Case Study-2
+
+### User Administation
+
 1) sudo adduser jane
 
 ![Alt text](./assets/Case-Study-2/jane_useradd.png)
