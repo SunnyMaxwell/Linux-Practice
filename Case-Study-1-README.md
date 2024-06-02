@@ -3,6 +3,9 @@
 1) ## Linux Distro Types
 
 Linux is a Open Source Operating System designed from UNIX, Where we can find various flours with advance features'
+
+  * Linux distributions, or distros, are variations of the Linux operating system. Each distro can come with a variety of desktop environments that provide graphical user interfaces (GUIs) and customization options. Here are some popular Linux distros
+
   * The Linux Distro we have various destop versions in order to use based on our requirement and features for it
   * Few of them are
     1) GNOME
@@ -18,6 +21,32 @@ Linux is a Open Source Operating System designed from UNIX, Where we can find va
   * __More Over it look Like Windows GUI__
 
 ___Note: Although Ubuntu GNOME 16.04.5 is supported until April 2019, we strongly encourage you to install the regular Ubuntu 18.04 LTS release which features a minimally customized GNOME desktop.___
+
+  * ### Customization:
+
+  1. GNOME: Highly customizable with GNOME Tweaks, extensions from the GNOME Extensions website, and various themes.
+
+  2. KDE Plasma: One of the most customizable environments, offering a wide range of widgets, themes, and settings through KDE System Settings.
+
+  3. Xfce: Lightweight and easily customizable through its settings manager and plugins.
+LXQt: Lightweight with basic customization options.
+
+  4. MATE: A continuation of GNOME 2, offering familiar customization through MATE Tweak and panel applets.
+
+  * ### Customization Features Across Desktop Environments
+  
+  1. Themes: Change the overall appearance, including window decorations, icons, and controls.
+
+  2. Widgets/Applets/Extensions: Add functionality and information displays to panels and desktops.
+
+  3. Panel Configurations: Adjust the position, size, and behavior of panels.
+
+  4. Wallpaper and Icons: Easily change desktop backgrounds and icon sets.
+
+  5. Shortcuts and Hotkeys: Customize keyboard shortcuts and hotkeys for various actions.
+
+___Each desktop environment and distro offers different levels of customization, allowing users to create a personalized experience suited to their preferences and hardware capabilities.___
+
 
 
 2) ## Dual Boot System
@@ -39,6 +68,16 @@ ___Note: Although Ubuntu GNOME 16.04.5 is supported until April 2019, we strongl
     * Change the amount of space to shink in MB. It should be minimum of 10000 MB and Click on Shrink button below.
 
     ![ALT text](./assets/Case-Study-1/Shrink_Volume_Data.png)
+
+    * optional): You can go ahead and assign a letter to the new volume. Right-click on the unallocated space and select “New Simple Volume”.
+
+    * Assign a letter to the drive, then follow the rest of it.
+
+    * After completing the wizard, the drive should be listed on your computer.
+
+    ![ALT text](./assets/Case-Study-1/New_Partition_M.png)
+
+#### Congrats! You’ve successfully partitioned your hard drive.
 
     2. ### Create a Bootable Ubuntu-GNOME USB Drive
 
@@ -94,6 +133,7 @@ ___Note: Although Ubuntu GNOME 16.04.5 is supported until April 2019, we strongl
     * Click on Apply and OK.
     
     * Close the window, reboot the PC
+
 
 
 
