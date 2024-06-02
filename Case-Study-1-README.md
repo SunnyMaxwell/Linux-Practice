@@ -78,7 +78,7 @@ ___Each desktop environment and distro offers different levels of customization,
 
     ![ALT text](./assets/Case-Study-1/New_Partition_M.png)
 
-#### Congrats! You’ve successfully partitioned your hard drive.
+    #### Congrats! You’ve successfully partitioned your hard drive.
 
     2. ### Create a Bootable Ubuntu-GNOME USB Drive
 
