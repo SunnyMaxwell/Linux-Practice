@@ -29,9 +29,10 @@ ___Note: Although Ubuntu GNOME 16.04.5 is supported until April 2019, we strongl
   2. KDE Plasma: One of the most customizable environments, offering a wide range of widgets, themes, and settings through KDE System Settings.
 
   3. Xfce: Lightweight and easily customizable through its settings manager and plugins.
-LXQt: Lightweight with basic customization options.
+  
+  4. LXQt: Lightweight with basic customization options.
 
-  4. MATE: A continuation of GNOME 2, offering familiar customization through MATE Tweak and panel applets.
+  5. MATE: A continuation of GNOME 2, offering familiar customization through MATE Tweak and panel applets.
 
   * ### Customization Features Across Desktop Environments
   
