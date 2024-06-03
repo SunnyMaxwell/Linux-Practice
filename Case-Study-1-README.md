@@ -1,3 +1,6 @@
+***Note***: Please find the solution of case-study-1 in below link
+
+[Case-study-1](https://github.com/SunnyMaxwell/Linux-Practice/blob/main/Case-Study-1-README.md/)
 
 
 1) ## Linux Distro Types
