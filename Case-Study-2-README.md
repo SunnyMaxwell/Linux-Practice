@@ -18,8 +18,7 @@
 
 4) Tom shouldn’t be able to access jane home folder
 
-    ![ALT text](./assets/Case-Study-2/
-    Default-Permissions-tom-home-of-jane.png)
+    ![ALT text](./assets/Case-Study-2/Default-Permissions-tom-home-of-jane.png)
 
     Tom was able to access jane home directory.
         
@@ -40,8 +39,11 @@
 5) Notes - Folder
 
     5.1) Create a directory notes under Linux using "mkdir"
+
     5.2) Create a group called "mynotes" using "groupadd"
+
     5.3) Add jane and tom to that group using "gpasswd -M"
+
     5.4) Change group ownership to "mynotes" for Folder notes using "chgrp"
 
     ![ALT text](./assets/Case-Study-2/mynotes_grp.png)
@@ -55,7 +57,10 @@
     ![ALT text](./assets/Case-Study-2/change_others_permission_notes.png)
 
     5.7) Create a group called "other-friends" using "groupadd"
+
     5.8) Set the permission same as mynotes group to "other-friends"
+
+    ```setfacl g:other-friends:rw ./notes```
 
 
 6) Research - Folder
