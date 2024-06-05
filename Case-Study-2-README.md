@@ -1,8 +1,10 @@
-# Linux-Practice
+***Note***: Please find the solution of case-study-2 in below link
 
-## Case Study-2
+[Case-study-2](https://github.com/SunnyMaxwell/Linux-Practice/blob/main/Case-Study-2-README.md/)
 
-### User Administation
+# Case Study-2
+
+## User Administation
 
 1) sudo adduser jane
 
