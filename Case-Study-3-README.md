@@ -1,6 +1,7 @@
+***Note***: Please find the solution of case-study-1 in below link
 
+[Case-study-3](https://github.com/SunnyMaxwell/Linux-Practice/blob/main/Case-Study-3-README.md)
 
-# CaseStudy-3
 
 # Boot & Package Management
 
